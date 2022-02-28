@@ -21,3 +21,7 @@ cd thc-hydra
 # To see how to use only type 
 
 ./hydra -help 
+
+# video
+
+https://youtu.be/QbNfzR10jLk
